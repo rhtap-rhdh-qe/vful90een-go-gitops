@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vful90een-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vful90een-go
